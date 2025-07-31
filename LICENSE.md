@@ -9,7 +9,7 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 I
 - **Adapt** — remix, transform, and build upon the material
 
 ### Under the following terms:
-1. **Attribution** — You must give appropriate credit and provide a link back to [https://dream-single.net](https://dream-single.net).
+1. **Attribution** — You must give appropriate credit and provide a link back to [https://dream-singles.us](https://dream-singles.us).
 2. **NonCommercial** — You may not use the material for commercial purposes.
 3. **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
